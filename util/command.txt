@@ -1,1 +1,4 @@
 mongod.exe --dbpath C:\Estudo\Mongo\mongo-data
+
+ npm i bcrypt.js
+ npm i jsonwebtoken
